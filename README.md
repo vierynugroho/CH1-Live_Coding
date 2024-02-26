@@ -17,4 +17,4 @@
 | **Catatan** |
 | Chapter 1 - Live Coding All Day |
 | **Submission Chapter 1** |  
-[Github Repository](https://github.com/mrhmt80](https://github.com/vierynugroho/F-FSW24001086-km6-vn-aplikasi_rental_mobil-ch1)https://github.com/vierynugroho/F-FSW24001086-km6-vn-aplikasi_rental_mobil-ch1)|
+[Github Repository](https://github.com/vierynugroho/F-FSW24001086-km6-vn-aplikasi_rental_mobil-ch1)https://github.com/vierynugroho/F-FSW24001086-km6-vn-aplikasi_rental_mobil-ch1)|
