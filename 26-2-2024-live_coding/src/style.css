@@ -5,6 +5,9 @@ h1 {
 }
 
 aside#left-section {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     float: left;
 }
 
@@ -26,6 +29,9 @@ aside#right-section img {}
     display: block;
     text-align: justify;
 }
+
+/* Font */
+
 
 @media (orientation: landscape) and (max-width: 576px) {
     h1 {
