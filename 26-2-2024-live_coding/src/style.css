@@ -4,10 +4,37 @@ h1 {
     background-color: red;
 }
 
+aside#left-section {
+    float: left;
+}
+
+aside#right-section {
+    float: right;
+}
+
+aside#left-section img,
+aside#right-section img {
+    width: 50px;
+}
+
+aside#left-section img {}
+
+aside#right-section img {}
+
+.card {
+    width: 50%;
+    display: block;
+    text-align: justify;
+}
+
 @media (orientation: landscape) and (max-width: 576px) {
     h1 {
         font-size: 24px;
         color: red;
         background-color: blue;
+    }
+
+    .card {
+        width: 100%;
     }
 }
