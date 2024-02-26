@@ -1,3 +1,7 @@
+<h1 align="center">
+  Chapter 1 - Live Coding All Day
+</h1>
+
 # Data Diri
 
 |  |  |
